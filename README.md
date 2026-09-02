@@ -6,12 +6,6 @@
 <h1 align="center">Hi 👋, I'm Noshin Nawar</h1>
 <h3 align="center">CSE Student | Aspiring Software Engineer | MERN Stack Learner | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noshinstar&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 
 I am a Computer Science and Engineering student and an aspiring software engineer. I am currently learning the MERN Stack through Programming Hero and improving my full-stack web development skills.
@@ -84,8 +78,19 @@ I enjoy building projects, solving programming problems, and exploring AI/ML and
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noshinstar&show_icons=true&locale=en&layout=compact" alt="noshinstar" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=NoshinStar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="NoshinStar stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NoshinStar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="NoshinStar top languages" width="38%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noshinstar&show_icons=true&locale=en" alt="noshinstar" /></p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=NoshinStar&theme=dark&hide_border=false" alt="NoshinStar streak stats" width="60%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noshinstar&" alt="noshinstar" /></p>
+---
+
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=NoshinStar&icon=0&color=0" alt="Profile views" />
+  </a>
+</p>
