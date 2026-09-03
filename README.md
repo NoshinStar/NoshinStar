@@ -89,8 +89,4 @@ I enjoy building projects, solving programming problems, and exploring AI/ML and
 
 ---
 
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=NoshinStar&icon=0&color=0" alt="Profile views" />
-  </a>
-</p>
+
